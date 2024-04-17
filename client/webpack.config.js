@@ -33,8 +33,8 @@ module.exports = () => {
         name: 'Text Editor',
         short_name: 'Editor',
         description: 'This is a text editor!',
-        background_color: '##0d468c',
-        theme_color: '##0d468c',
+        background_color: '#0d468c',
+        theme_color: '#0d468c',
         start_url: './',
         publicPath: './',
         icons: [
